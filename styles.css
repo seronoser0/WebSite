@@ -1,0 +1,34 @@
+.main-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+h1{
+    font-family: fantasy;
+}
+.name{
+    margin-right: auto;
+}
+.it {
+    color: fff;
+    padding: 1px;
+    margin: auto;
+}
+
+.it a:link {
+text-decoration: none;
+}
+.it a:hover {
+    color: grey; 
+}
+.name{
+    flex-grow: 2;
+}
+.i1{
+    background-color: rgb(72, 87, 72);
+    height: 4rem;
+    
+}
+
+    
+    
